@@ -1,16 +1,19 @@
-### Hi there 👋
+ ### Hey there i'm Tom
+<p align="left>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTomahawkx&theme=tokyonight&card_width=445&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IAmTomahawkx&theme=tokyonight&count_private=true&show_icons=true" />
+  </a>
 
-<!--
-**IAmTomahawkx/IAmTomahawkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  My main language is python, i'm currently learning swift and elixer. I spend my spare time making discord bots, streamlabs chatbot scripts, and playing factorio
+  
+  ### Main repos
+  <a href="https://github.com/IAmTomahawkx/viper-lang">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmTomahawkx&repo=viper-lang&theme=tokyonight" />
+  </a>  
+  <a href="https://github.com/IAmTomahawkx/xlydn">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmTomahawkx&repo=xlydn&theme=tokyonight" />
+  </a>
+</p>                         
