@@ -11,5 +11,8 @@
   <br><br><br><br><br><br><br><br><br><br><br><br><br>
   <a href="https://github.com/TwitchIO/TwitchIO">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TwitchIO&repo=TwitchIO&theme=tokyonight" />
-  </a>  
-</p>                         
+  </a>
+  <a href="https://github.com/PythonistaGuild/Mystbin">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PythonistaGuild&repo=Mystbin&theme=tokyonight" />
+  </a>
+</p>
